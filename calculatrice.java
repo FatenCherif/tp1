@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Classe Calculatrice avec les opérations de base
+
 class Calculatrice {
     public double addition(double a, double b) {
         return a + b;
@@ -22,7 +22,7 @@ class Calculatrice {
     }
 }
 
-// Classe Test avec la méthode main
+
 public class Test {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
